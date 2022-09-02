@@ -1,0 +1,1 @@
+export { RewardTable } from "./RewardTable";

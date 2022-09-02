@@ -1,0 +1,18 @@
+.error-container {
+  padding: 2rem;
+  border: 2px solid red;
+}
+
+.error-container .title {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.error-container .helper {
+  margin-bottom: 1.5rem;
+}
+
+.error-container .message {
+  padding: 0 0.5rem;
+  background-color: lightgrey;
+}
